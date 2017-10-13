@@ -1,0 +1,19 @@
+{
+  "name": "audio-visualizer-2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnmxmx/audio-visualizer-2d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnmxmx/audio-visualizer-2d/issues"
+  },
+  "homepage": "https://github.com/mnmxmx/audio-visualizer-2d#readme"
+}
