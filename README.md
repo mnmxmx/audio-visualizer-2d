@@ -1,4 +1,4 @@
-# 2d-audio-visualizer
+# audio-visualizer-2d
 
 
 ## Description
